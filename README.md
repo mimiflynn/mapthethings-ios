@@ -6,7 +6,7 @@ global coverage map for The Things Network (TTN).
 
 ## Using the App - (Sometime in the future)
 - Launch to the Map view - Shows local map with latest sample data
-- Switch to Sampling view because I'm ready to add my own data.
+- Switch to Devices view because I'm ready to add my own data.
 - Log in with email and selected service (Ideally any of Google, Twitter, FB, Github)
 - No devices configured - when I tap the device picker, it switches me to the Devices page. Oh, right, I should have noticed that there is a badge on the devices tab button indicating there is a BLE node available near me.
 - Pair with my node or add a LoRa-only node
